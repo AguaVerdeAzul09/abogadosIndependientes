@@ -1,0 +1,1 @@
+alert(Gracias por usar nuestros servicios, el abogado lo contactara en el menor tiempo posible.);
